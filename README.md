@@ -1,2 +1,2 @@
 # Learning
-Repository for learning purposes, build apps, websited or to just make a simple scripts in different coding languages
+Repository for learning purposes, building apps, websites or to just make a simple scripts in different coding languages
